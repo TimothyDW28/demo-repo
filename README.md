@@ -1,3 +1,3 @@
 # Demo
 
-First try on making my own github project
+First try on making my own github project!
